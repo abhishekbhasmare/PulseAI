@@ -32,7 +32,7 @@
 
 ## 3. Responsible AI & Safety Protocol (PulseAI TrustGuard)
 
-- **₹0 External Cost:** Works completely offline using a transparent, local rule-based medical knowledge engine.
+
 - **Deterministic Emergency Screening:** Pre-screens user input for acute life-threatening symptoms (e.g. crushing chest pain radiating to arm, acute respiratory failure, sudden facial drooping/slurred speech, severe hemorrhage, anaphylaxis) **before** any AI or query processing.
 - **Immediate India Helplines:** Immediately presents **112 (National Emergency Helpline)** and **108 (Ambulance Service)** with instant call triggers.
 - **Clinical Boundaries:** Does not claim to diagnose, prescribe medications, or replace a licensed healthcare practitioner.
@@ -101,7 +101,7 @@ npm.cmd run dev
 
 1. **Problem & Landing Page (`/`):**
    - Point out the dual portal buttons ("Patient Portal" & "Admin Operations").
-   - Highlight the ₹0 Mandatory Cost badge and the 112/108 emergency banner.
+   - The 112/108 emergency banner.
    - Switch language to **मराठी** and back to **English** to demonstrate bilingual readiness.
 
 2. **Continuity Engine in Action (`/user`):**
