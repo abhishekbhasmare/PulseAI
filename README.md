@@ -1,6 +1,6 @@
 # PulseAI — Smarter Healthcare, Simplified
 ### AI-Powered Healthcare Continuity Platform for Maharashtra & India
-**National-Level Hackathon MVP | Zero Mandatory Cost (₹0) | Credit-Efficient Development**
+**National-Level Hackathon MVP
 
 ---
 
@@ -131,5 +131,5 @@ npm.cmd run dev
 
 ## 8. Honest Limitations & Production Roadmap
 
-- **Demonstration Storage vs Production DB:** Currently uses an isolated, reactive local repository for ₹0 zero-cost demonstration. In production, this maps to PostgreSQL with Row Level Security (RLS) via Supabase/PostgREST. Real patient medical data should never be stored in plaintext browser local storage.
+- **Demonstration Storage vs Production DB:**  In production, this maps to PostgreSQL with Row Level Security (RLS) via Supabase/PostgREST. Real patient medical data should never be stored in plaintext browser local storage.
 - **Clinical Boundaries:** PulseAI is an informational organization and preparation tool. It does not provide medical diagnoses, clinical triage, or drug prescriptions.
